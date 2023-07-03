@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Developer-Kingz
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m a FullStack web Developer
 - 📫 My twitter handle is DaKingzMan
 
 <!---
